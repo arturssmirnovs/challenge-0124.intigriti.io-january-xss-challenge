@@ -62,3 +62,4 @@ This comprehensive analysis showcases the identification and exploitation of pro
 * https://challenge-0124.intigriti.io/
 * https://challenge-0124.intigriti.io/challenge
 * https://github.com/axios/axios/releases/tag/v1.6.4
+* https://github.com/axios/axios/commit/3c0c11cade045c4412c242b5727308cff9897a0e
