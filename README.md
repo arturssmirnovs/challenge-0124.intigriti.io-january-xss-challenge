@@ -61,4 +61,4 @@ This comprehensive analysis showcases the identification and exploitation of pro
 
 * https://challenge-0124.intigriti.io/
 * https://challenge-0124.intigriti.io/challenge
-* https://github.com/arturssmirnovs/challenge-0124.intigriti.io-january-xss-challenge
+* https://github.com/axios/axios/releases/tag/v1.6.4
